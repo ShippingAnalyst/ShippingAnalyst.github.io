@@ -1,2 +1,5 @@
 site_name: AEL Containers
 site_description: Tracking AEL containers via GSM modems
+nav:
+    -Home: 'index.md'
+    -Map: 'AELContainers.md'
