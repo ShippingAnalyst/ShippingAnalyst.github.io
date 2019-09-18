@@ -3,9 +3,7 @@
 <html>
   <head></head>
   <body>
-    {% include header.html %}
+    {% include index.html %}
     content
-    {% include sidebar.html %}
-    {% include footer.html %}
   </body>
 </html>
