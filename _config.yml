@@ -1,1 +1,4 @@
+layout: default
+style: light
 theme: jekyll-theme-cayman
+permalink: /:year/:month/:day/:title/
